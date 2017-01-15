@@ -1,0 +1,15 @@
+{
+  "name": "data_science",
+  "version": "1.0.0",
+  "description": "tests for fun ",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
