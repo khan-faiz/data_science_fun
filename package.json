@@ -4,7 +4,8 @@
   "description": "tests for fun ",
   "main": "index.js",
   "dependencies": {
-    "d3": "^4.4.1"
+    "d3": "^4.4.1",
+    "datalib": "^1.7.3"
   },
   "devDependencies": {},
   "scripts": {
